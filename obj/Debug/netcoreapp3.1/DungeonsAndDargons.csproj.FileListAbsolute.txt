@@ -1,0 +1,14 @@
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\bin\Debug\netcoreapp3.1\DungeonsAndDargons.exe
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\bin\Debug\netcoreapp3.1\DungeonsAndDargons.deps.json
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\bin\Debug\netcoreapp3.1\DungeonsAndDargons.runtimeconfig.json
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\bin\Debug\netcoreapp3.1\DungeonsAndDargons.runtimeconfig.dev.json
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\bin\Debug\netcoreapp3.1\DungeonsAndDargons.dll
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\bin\Debug\netcoreapp3.1\DungeonsAndDargons.pdb
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\obj\Debug\netcoreapp3.1\DungeonsAndDargons.csproj.AssemblyReference.cache
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\obj\Debug\netcoreapp3.1\DungeonsAndDargons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\obj\Debug\netcoreapp3.1\DungeonsAndDargons.AssemblyInfoInputs.cache
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\obj\Debug\netcoreapp3.1\DungeonsAndDargons.AssemblyInfo.cs
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\obj\Debug\netcoreapp3.1\DungeonsAndDargons.csproj.CoreCompileInputs.cache
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\obj\Debug\netcoreapp3.1\DungeonsAndDargons.dll
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\obj\Debug\netcoreapp3.1\DungeonsAndDargons.pdb
+C:\Users\brandon.gunthner\source\repos\DungeonsAndDargons\obj\Debug\netcoreapp3.1\DungeonsAndDargons.genruntimeconfig.cache
